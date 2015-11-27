@@ -1,0 +1,6 @@
+framework module TestPodLib2AndSourceTree {
+  umbrella header "TestPodLib2AndSourceTree-umbrella.h"
+
+  export *
+  module * { export * }
+}
